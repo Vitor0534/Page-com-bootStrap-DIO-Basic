@@ -1,0 +1,32 @@
+body{
+	font: 20px Arial, sans-serif;
+}
+.navbar{
+	background-color: #298A0B;
+}
+
+.quem-somos{
+	background-color: #8181F7;
+	color: white;
+}
+
+.margin{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#parceiros{
+	background: #D7BDE2;
+	color: white;
+}
+
+#servicos{
+
+
+}
+
+.rodape{
+	color: white;
+	background-color: #AEB6BF;
+	text-align: center;
+}
